@@ -1,5 +1,8 @@
-package bongpan.andong.amsterdam;
+package bongpan.andong.amsterdam.main;
 
+import bongpan.andong.amsterdam.R;
+import bongpan.andong.amsterdam.R.layout;
+import bongpan.andong.amsterdam.R.menu;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
