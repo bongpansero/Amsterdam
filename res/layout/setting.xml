@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+	
+    <EditText 
+        android:id="@+id/urlEdit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Default URL"
+        android:inputType="textUri"
+        />
+    
+    <Button 
+        android:id="@+id/urlSettingButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/urlEdit"
+        android:text="set"
+        />
+
+</RelativeLayout>

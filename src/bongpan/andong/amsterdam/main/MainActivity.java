@@ -1,11 +1,9 @@
 package bongpan.andong.amsterdam.main;
 
-import bongpan.andong.amsterdam.R;
-import bongpan.andong.amsterdam.R.layout;
-import bongpan.andong.amsterdam.R.menu;
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
+import bongpan.andong.amsterdam.R;
 
 public class MainActivity extends Activity {
 
